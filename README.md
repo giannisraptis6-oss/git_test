@@ -1,2 +1,2 @@
 # git_test
-Hello din
+Hello Odin's project
